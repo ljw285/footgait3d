@@ -1,3 +1,3 @@
 # footgait3d
 
-The whole dataset is linked to https://huggingface.co/datasets/ljw285/FootGait3D
+The entire dataset is available at https://huggingface.co/datasets/ljw285/FootGait3D
